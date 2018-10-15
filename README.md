@@ -3,4 +3,4 @@
 WRIO OS demo hub.
 
 ##Hub
-[demo.wr.io](http://emo.wr.io)
+[demo.wr.io](http://demo.wr.io)
